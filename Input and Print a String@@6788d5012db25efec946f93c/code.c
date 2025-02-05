@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-    int a;
-    int b;
-    scanf("%d %d",&a,&b);
-    printf("Sum: %d",a+b);
+    char string;
+    scanf("%c",&string);
+    printf("You entered: %c",word);
     return 0;
+
 }
