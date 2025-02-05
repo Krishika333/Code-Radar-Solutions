@@ -7,7 +7,6 @@ int main(){
     }
     else {
         print("False");
-
     }
     return 0;
 }
