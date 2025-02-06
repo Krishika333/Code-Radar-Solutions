@@ -7,7 +7,6 @@ if (a==b && a==c){
 }
     else if (a==b || a==c || b==c){
         printf("Isosceles");
-
     }
     else {
         printf("Scalnce");
