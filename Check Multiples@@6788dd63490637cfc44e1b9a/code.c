@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(){
+    int a,b;
+    scanf("%d %d",&a &b);
+    if (b%a == 0 || a%b == 0 ){
+        prinf("Yes");
+    }
+    else {
+        printf("No");
+    }
+    return 0;
+}
