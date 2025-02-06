@@ -9,7 +9,7 @@ if (a==b && a==c){
         printf("Isosceles");
     }
     else {
-        printf("Scalnce");
+        printf("Scalence");
     }
     return 0;
 }
