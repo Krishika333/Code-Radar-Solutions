@@ -16,13 +16,15 @@ int main(){
     }
     else if (num == 5){
         printf("Friday");
-
     }
     else if (num == 6){
         printf("Saturday");
     }
     else if (num == 7){
         printf("Sunday");
+    }
+    else {
+        printf("Invalid");
     }
     return 0;
 }
