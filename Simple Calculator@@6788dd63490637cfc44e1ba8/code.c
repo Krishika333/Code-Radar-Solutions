@@ -25,6 +25,12 @@ int main(){
             break;
 
         }
+        printf("%.0f",s);
+        break;
+        default:
+        printf("error");
+        break;
+    }
         return 0;
     }
 }
